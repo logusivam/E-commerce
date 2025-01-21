@@ -3831,7 +3831,7 @@ textarea.form-control-lg {
   border: var(--bs-border-width) solid var(--bs-navbar-toggler-border-color);
   border-radius: var(--bs-navbar-toggler-border-radius);
   transition: var(--bs-navbar-toggler-transition);
-  margin-right: -80px !important;
+  margin-right: 0px !important;
 }
 @media (prefers-reduced-motion: reduce) {
   .navbar-toggler {
