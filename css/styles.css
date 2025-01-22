@@ -28,13 +28,13 @@ header {
 /* Responsive Adjustments */
 @media (max-width: 768px) {
   header {
-      height: 150px !important; /* Adjust header height for smaller screens */
+      height: 250px !important; /* Adjust header height for smaller screens */
   }
 }
 
 @media (max-width: 576px) {
   header {
-      height: 250px !important; /* Further adjust for very small screens */
+      height: 200px !important; /* Further adjust for very small screens */
   }
 }
 
