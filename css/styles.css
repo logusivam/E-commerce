@@ -11,10 +11,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
- .hero {
-  max-width: 1000px !important;
-  object-fit: fill;
- }
+ 
 
  /* Base Style */
 header {
@@ -22,7 +19,7 @@ header {
   position: relative;
 }
 
-img {
+.hero {
   object-fit: contain; /* Ensures the full image is visible */
   width: 100%;        /* Makes the image span the full width */
   height: 100%;       /* Adjusts height to maintain proportions */
