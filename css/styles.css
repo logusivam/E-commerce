@@ -34,7 +34,7 @@ header {
 
 @media (max-width: 576px) {
   header {
-      height: 250px; /* Further adjust for very small screens */
+      height: 250px !important; /* Further adjust for very small screens */
   }
 }
 
